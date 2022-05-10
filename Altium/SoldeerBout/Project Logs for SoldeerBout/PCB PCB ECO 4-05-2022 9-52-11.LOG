@@ -1,0 +1,7 @@
+Change Component Footprint: Designator=IC4 Old Footprint=DIP778W53P254L2612H431Q20N New Footprint=DisplayIC
+Change Component Footprint: Designator=K1 Old Footprint=FP-RT424615-MFG New Footprint=FP-RT424615-MFG
+Added Room: Name=BoutVoeding
+Added Room: Name=Display
+Added Room: Name=Opamp
+Added Room: Name=Processor
+Added Room: Name=Voeding

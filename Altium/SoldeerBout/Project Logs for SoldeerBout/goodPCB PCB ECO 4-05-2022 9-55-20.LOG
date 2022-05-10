@@ -1,0 +1,6 @@
+Change Component Footprint: Designator=K1 Old Footprint=FP-RT424615-MFG New Footprint=FP-RT424615-MFG
+Added Room: Name=BoutVoeding
+Added Room: Name=Display
+Added Room: Name=Opamp
+Added Room: Name=Processor
+Added Room: Name=Voeding

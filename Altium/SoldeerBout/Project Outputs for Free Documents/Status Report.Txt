@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [beter.PcbDoc]
+   Generated File[beter.TXT]
+   Generated File[beter.LDP]
+   Generated File[beter.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 8:39:08 On 10/05/2022

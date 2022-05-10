@@ -1,0 +1,27 @@
+Change Component Footprint: Designator=K1 Old Footprint=FP-RT424615-MFG New Footprint=FP-RT424615-MFG
+Add Component: Footprint Not Found DIP778W43P254L2612H431Q20N
+Add Component: Footprint Not Found 1711725
+Add Component: Footprint Not Found 1711725
+Add Pin To Net: Unknown Pin: Pin IC4-1
+Add Pin To Net: Unknown Pin: Pin IC4-2
+Add Pin To Net: Unknown Pin: Pin IC4-3
+Add Pin To Net: Unknown Pin: Pin IC4-4
+Add Pin To Net: Unknown Pin: Pin IC4-5
+Add Pin To Net: Unknown Pin: Pin IC4-6
+Add Pin To Net: Unknown Pin: Pin IC4-7
+Add Pin To Net: Unknown Pin: Pin IC4-8
+Add Pin To Net: Unknown Pin: Pin IC4-9
+Add Pin To Net: Unknown Pin: Pin IC4-12
+Add Pin To Net: Unknown Pin: Pin IC4-13
+Add Pin To Net: Unknown Pin: Pin IC4-14
+Add Pin To Net: Unknown Pin: Pin IC4-15
+Add Pin To Net: Unknown Pin: Pin IC4-16
+Add Pin To Net: Unknown Pin: Pin IC4-17
+Add Pin To Net: Unknown Pin: Pin IC4-18
+Add Pin To Net: Unknown Pin: Pin J1-1
+Add Pin To Net: Unknown Pin: Pin J1-2
+Add Pin To Net: Unknown Pin: Pin J2-1
+Add Pin To Net: Unknown Pin: Pin J2-2
+Add Class Member: Failed to add class member : Component IC4 TM1637
+Add Class Member: Failed to add class member : Component J1 1711725
+Add Class Member: Failed to add class member : Component J2 1711725
